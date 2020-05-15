@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="0de6716d07b49010fd7aff4c7c1ed053" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_when_needed</element>
+            <position>0</position>
+            <sys_created_by>v5kudla</sys_created_by>
+            <sys_created_on>2020-05-15 14:41:56</sys_created_on>
+            <sys_id>1b4a752107f49010fd7aff4c7c1ed0e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section>
+            <sys_updated_by>v5kudla</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:41:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <position>1</position>
+            <sys_created_by>v5kudla</sys_created_by>
+            <sys_created_on>2020-05-15 14:41:56</sys_created_on>
+            <sys_id>9b4a752107f49010fd7aff4c7c1ed0e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section>
+            <sys_updated_by>v5kudla</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:41:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_request_type</element>
+            <position>2</position>
+            <sys_created_by>v5kudla</sys_created_by>
+            <sys_created_on>2020-05-15 14:41:56</sys_created_on>
+            <sys_id>1f4a752107f49010fd7aff4c7c1ed0e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section>
+            <sys_updated_by>v5kudla</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:41:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>v5kudla</sys_created_by>
+            <sys_created_on>2020-05-15 14:41:56</sys_created_on>
+            <sys_id>9f4a752107f49010fd7aff4c7c1ed0e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section>
+            <sys_updated_by>v5kudla</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:41:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_what_needed</element>
+            <position>4</position>
+            <sys_created_by>v5kudla</sys_created_by>
+            <sys_created_on>2020-05-15 14:41:56</sys_created_on>
+            <sys_id>134a752107f49010fd7aff4c7c1ed0e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section>
+            <sys_updated_by>v5kudla</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:41:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>v5kudla</sys_created_by>
+            <sys_created_on>2020-05-15 14:27:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0de6716d07b49010fd7aff4c7c1ed053</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_0de6716d07b49010fd7aff4c7c1ed053</sys_update_name>
+            <sys_updated_by>v5kudla</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:27:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1c4b76d9db6ff30442b321c40596195d</instance_id>
+        <instance_name>dev92627</instance_name>
+        <name>sys_ui_section_0de6716d07b49010fd7aff4c7c1ed053</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="0de6716d07b49010fd7aff4c7c1ed053" sys_domain="global" table="x_58872_needit_needit" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_when_needed</element><position>0</position><sys_created_by>v5kudla</sys_created_by><sys_created_on>2020-05-15 14:41:56</sys_created_on><sys_id>1b4a752107f49010fd7aff4c7c1ed0e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section><sys_updated_by>v5kudla</sys_updated_by><sys_updated_on>2020-05-15 14:41:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_requested_for</element><position>1</position><sys_created_by>v5kudla</sys_created_by><sys_created_on>2020-05-15 14:41:56</sys_created_on><sys_id>9b4a752107f49010fd7aff4c7c1ed0e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section><sys_updated_by>v5kudla</sys_updated_by><sys_updated_on>2020-05-15 14:41:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_request_type</element><position>2</position><sys_created_by>v5kudla</sys_created_by><sys_created_on>2020-05-15 14:41:56</sys_created_on><sys_id>1f4a752107f49010fd7aff4c7c1ed0e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section><sys_updated_by>v5kudla</sys_updated_by><sys_updated_on>2020-05-15 14:41:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>3</position><sys_created_by>v5kudla</sys_created_by><sys_created_on>2020-05-15 14:41:56</sys_created_on><sys_id>9f4a752107f49010fd7aff4c7c1ed0e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section><sys_updated_by>v5kudla</sys_updated_by><sys_updated_on>2020-05-15 14:41:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_what_needed</element><position>4</position><sys_created_by>v5kudla</sys_created_by><sys_created_on>2020-05-15 14:41:56</sys_created_on><sys_id>134a752107f49010fd7aff4c7c1ed0e5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">0de6716d07b49010fd7aff4c7c1ed053</sys_ui_section><sys_updated_by>v5kudla</sys_updated_by><sys_updated_on>2020-05-15 14:41:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>v5kudla</sys_created_by><sys_created_on>2020-05-15 14:27:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0de6716d07b49010fd7aff4c7c1ed053</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Section</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_0de6716d07b49010fd7aff4c7c1ed053</sys_update_name><sys_updated_by>v5kudla</sys_updated_by><sys_updated_on>2020-05-15 14:27:02</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1083051558</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>5d249f0907bc1010fd7aff4c7c1ed089</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>v5kudla</sys_created_by>
+        <sys_created_on>2020-05-15 14:41:56</sys_created_on>
+        <sys_id>5b4a752107f49010fd7aff4c7c1ed0e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17218c8dc320000001</sys_recorded_at>
+        <sys_updated_by>v5kudla</sys_updated_by>
+        <sys_updated_on>2020-05-15 14:41:56</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d34a752114f490105f72f1147d7600e6</update_guid>
+        <update_guid_history>d34a752114f490105f72f1147d7600e6:-1083051558,b169f5ed0eb4901020110005c207bbbe:1312055586,bae831ed90b490106cea3925b91e618d:1164518242,7f2875add9b49010c72eef77a0f2f542:1274367629,ff973d6de3b4901061d1f402476fbcfb:-245820894,8117356da3b49010c1f8c75ecc1782bd:603050744,e9e6716ddeb490103817f46d002964ae:1647807503</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>v5kudla</sys_created_by>
+        <sys_created_on>2020-05-15 14:44:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>567d1d523d21463899dab3c529edfe40</sys_id>
+        <sys_metadata>0de6716d07b49010fd7aff4c7c1ed053</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">ad32c85907705010fd7aff4c7c1ed086</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0de6716d07b49010fd7aff4c7c1ed053</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0de6716d07b49010fd7aff4c7c1ed053">5b4a752107f49010fd7aff4c7c1ed0e6</sys_update_version>
+        <sys_updated_by>v5kudla</sys_updated_by>
+        <sys_updated_on>2020-05-15 14:44:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
