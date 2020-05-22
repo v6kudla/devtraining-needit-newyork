@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description/>
+        <flush_cache>false</flush_cache>
+        <name>Couting records in a gliderecord</name>
+        <record_for_rollback>false</record_for_rollback>
+        <run_once>true</run_once>
+        <script><![CDATA[// If you need to know the row count for a query on a production instance do this
+var count = new GlideAggregate('x_snc_needit_needit'); 
+count.addAggregate('count'); 
+count.query(); 
+var recs = 0; 
+	if (count.next()){ 
+	recs = count.getAggregate('count');
+  }
+gs.info("Returned number of rows = " +recs);
+
+// Do not do this on a production instance. 
+var myObj = new GlideRecord('x_snc_needit_needit');
+myObj.query();
+gs.info("Returned record count = " + myObj.getRowCount());]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>v5kudla</sys_created_by>
+        <sys_created_on>2020-05-21 08:19:26</sys_created_on>
+        <sys_id>f03c1b9f07b05810fd7aff4c7c1ed0d2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Couting records in a gliderecord</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_fix_f03c1b9f07b05810fd7aff4c7c1ed0d2</sys_update_name>
+        <sys_updated_by>v5kudla</sys_updated_by>
+        <sys_updated_on>2020-05-21 08:21:02</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
